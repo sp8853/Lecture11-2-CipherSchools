@@ -1,0 +1,9 @@
+address of elements in c++
+memory management in c++ is really important
+the position of the data type in the memory "WHERE"
+also matters a lot 
+
+what is the address of an element 
+the address of an element refers to the memory location where that element is stored 
+every variable and object in c++ is assigned a unique memeory address, and you can obtain the address of an element using the address of the operator denoted by the ampersand symbol"&"
+
